@@ -114,4 +114,4 @@ So it would be: "A" * offset  + "JMP ESP to point to" + "/x90" * 8 + shellcode
 
 # Step 10: Execute and get shell
 
-Simple as 123
+Simple as 1 2 3... 10
